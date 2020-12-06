@@ -14,9 +14,10 @@ KirkRendererPipeline 自定义渲染管线练习
   - 3.GIRenderer.cs
 
  **截图**：
-![Image 15](https://github.com/Kirkice/SRPTest/SourceImages/7.png)
 
-![Image 16](https://github.com/Kirkice/SRPTest/SourceImages/8.png)
+<div align=left><img width="1280" height="720" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/7.png"/></div>
+
+<div align=left><img width="1280" height="720" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/8.png"/></div>
 
 ## 第一部分 基础光照模型
 
@@ -31,7 +32,8 @@ KirkRendererPipeline 自定义渲染管线练习
   - 5.CookTorrance
   
  **截图**：
-![Image 1](https://github.com/Kirkice/SRPTest/SourceImages/lightModel.png)
+
+ <div align=left><img width="1280" height="720" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/lightModel.png"/></div>
 
 ---
 
@@ -45,9 +47,13 @@ KirkRendererPipeline 自定义渲染管线练习
   
  **截图**：
  - 着色器参数
- ![Image 2](https://github.com/Kirkice/SRPTest/SourceImages/pbrM.png)
+
+  <div align=left><img width="1280" height="720" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/pbrM.png"/></div>
+
  - PBR效果
- ![Image 3](https://github.com/Kirkice/SRPTest/SourceImages/PBRLit.png)
+
+  <div align=left><img width="1280" height="720" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/PBRLit.png"/></div>
+
 
 ---
 
@@ -60,10 +66,13 @@ KirkRendererPipeline 自定义渲染管线练习
 
 **截图**：
  - Global illumination OFF
- ![Image 4](https://github.com/Kirkice/SRPTest/SourceImages/GIOff.png)
+
+   <div align=left><img width="1280" height="720" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/GIOff.png"/></div>
+
  - Global illumination ON！！
- ![Image 5](https://github.com/Kirkice/SRPTest/SourceImages/GIOn.png)
- 
+
+   <div align=left><img width="1280" height="720" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/GIOn.png"/></div>
+
 ---
 
 ## 第四部分 体渲染 Ray Marching / Voxel
@@ -77,14 +86,18 @@ KirkRendererPipeline 自定义渲染管线练习
 **截图**：
 
  - Volume Light
- ![Image 6](https://github.com/Kirkice/SRPTest/SourceImages/Point.png)
- ![Image 7](https://github.com/Kirkice/SRPTest/SourceImages/Spot.png)
+
+    <div align=left><img width="1280" height="720" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/Point.png"/></div>
+
+    <div align=left><img width="1280" height="720" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/Spot.png"/></div>
+
 
  - Volume Cloud / Voxel
    还在写。。。。
    
  - Volume Fog 
- ![Image 8](https://github.com/Kirkice/SRPTest/SourceImages/DirectionLight.png)
+
+    <div align=left><img width="1280" height="720" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/DirectionLight.png"/></div>
 
  ---
 
@@ -120,14 +133,16 @@ KirkRendererPipeline 自定义渲染管线练习
   - 27.ToneMapping (色调映射)  
 
 **截图**：
-  ![Image 9](https://github.com/Kirkice/SRPTest/SourceImages/1.png)
 
-  ![Image 10](https://github.com/Kirkice/SRPTest/SourceImages/2.png)
+  <div align=left><img width="1280" height="720" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/1.png"/></div>
 
-  ![Image 11](https://github.com/Kirkice/SRPTest/SourceImages/3.png)
+  <div align=left><img width="1280" height="720" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/2.png"/></div>
 
-  ![Image 12](https://github.com/Kirkice/SRPTest/SourceImages/4.png)
+  <div align=left><img width="1280" height="720" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/3.png"/></div>
 
-  ![Image 13](https://github.com/Kirkice/SRPTest/SourceImages/5.png)
+  <div align=left><img width="1280" height="720" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/4.png"/></div>
 
-  ![Image 14](https://github.com/Kirkice/SRPTest/SourceImages/6.png)
+  <div align=left><img width="1280" height="720" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/5.png"/></div>
+
+  <div align=left><img width="1280" height="720" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/6.png"/></div>
+
