@@ -14,7 +14,7 @@ KirkRendererPipeline 自定义渲染管线练习
   - 3.GIRenderer.cs
 
  **截图**：
-![Image 1](https://github.com/Kirkice/SRPTest/blob/main/SourceImages/7.png?raw=true)
+<div align=left><img width="720" height="480" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/7.png"/></div>
 
 ![Image 2](https://github.com/Kirkice/SRPTest/tree/main/SourceImages/8.png?raw=true)
 
