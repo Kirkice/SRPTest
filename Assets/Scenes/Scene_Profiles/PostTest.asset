@@ -85,7 +85,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8fd24ba9bde8dde4db04396964907716, type: 3}
   m_Name: RGBSplit
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   enabled:
     overrideState: 1
     value: 1
@@ -107,7 +107,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d680cdde966bc2e478040fe02c2ed44a, type: 3}
   m_Name: ColorSpace
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   enabled:
     overrideState: 1
     value: 1
@@ -192,7 +192,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aae44905b3d73784cb77a6e618fea0a3, type: 3}
   m_Name: Relief
   m_EditorClassIdentifier: 
-  active: 0
+  active: 1
   enabled:
     overrideState: 1
     value: 1
@@ -246,7 +246,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 48a79b01ea5641d4aa6daa2e23605641, type: 3}
   m_Name: Bloom
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   enabled:
     overrideState: 1
     value: 1
@@ -452,7 +452,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f5d9b29c3d5db7748937d6de6fada9e8, type: 3}
   m_Name: HSV
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   enabled:
     overrideState: 1
     value: 1
