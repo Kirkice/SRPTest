@@ -15,7 +15,7 @@ KirkRendererPipeline 自定义渲染管线练习
 
  **截图**：
 
-<div align=left><img width="1280" height="720" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/7.png"/></div>
+<img src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/7.png" width="1280" height="720"/>
 
 <div align=left><img width="1280" height="720" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/8.png"/></div>
 
