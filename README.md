@@ -15,9 +15,9 @@ KirkRendererPipeline 自定义渲染管线练习
 
  **截图**：
 
-<div align=left><img width="700" height="390" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/7.png"/></div>
+<div align=left><img width="700" height="340" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/7.png"/></div>
 
-<div align=left><img width="700" height="390" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/8.png"/></div>
+<div align=left><img width="700" height="440" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/8.png"/></div>
 
 ## 第一部分 基础光照模型
 
@@ -48,7 +48,7 @@ KirkRendererPipeline 自定义渲染管线练习
  **截图**：
  - 着色器参数
 
-  <div align=left><img width="700" height="390" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/pbrM.png"/></div>
+  <div align=left><img width="470" height="600" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/pbrM.png"/></div>
 
  - PBR效果
 
@@ -135,13 +135,13 @@ KirkRendererPipeline 自定义渲染管线练习
 **截图**：
   <div align=left><img width="700" height="390" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/1.png"/></div>
 
-  <div align=left><img width="700" height="390" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/2.png"/></div>
+  <div align=left><img width="635" height="530" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/2.png"/></div>
 
-  <div align=left><img width="700" height="390" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/3.png"/></div>
+  <div align=left><img width="635" height="530" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/3.png"/></div>
 
-  <div align=left><img width="700" height="390" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/4.png"/></div>
+  <div align=left><img width="635" height="530" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/4.png"/></div>
 
-  <div align=left><img width="700" height="390" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/5.png"/></div>
+  <div align=left><img width="635" height="530" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/5.png"/></div>
 
-  <div align=left><img width="700" height="390" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/6.png"/></div>
+  <div align=left><img width="635" height="530" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/6.png"/></div>
 
