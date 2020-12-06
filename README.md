@@ -14,9 +14,9 @@ KirkRendererPipeline 自定义渲染管线练习
   - 3.GIRenderer.cs
 
  **截图**：
-!(https://github.com/Kirkice/SRPTest/blob/main/SourceImages/7.png?raw=true)
+![Image 1](https://github.com/Kirkice/SRPTest/blob/main/SourceImages/7.png?raw=true)
 
-!(https://github.com/Kirkice/SRPTest/tree/main/SourceImages/8.png?raw=true)
+![Image 2](https://github.com/Kirkice/SRPTest/tree/main/SourceImages/8.png?raw=true)
 
 ## 第一部分 基础光照模型
 
@@ -31,7 +31,7 @@ KirkRendererPipeline 自定义渲染管线练习
   - 5.CookTorrance
   
  **截图**：
-!(https://github.com/Kirkice/SRPTest/tree/main/SourceImages/lightModel.png?raw=true)
+![Image 3](https://github.com/Kirkice/SRPTest/tree/main/SourceImages/lightModel.png?raw=true)
 
 ---
 
@@ -45,9 +45,9 @@ KirkRendererPipeline 自定义渲染管线练习
   
  **截图**：
  - 着色器参数
- !(https://github.com/Kirkice/SRPTest/tree/main/SourceImages/pbrM.png?raw=true)
+ ![Image 4](https://github.com/Kirkice/SRPTest/tree/main/SourceImages/pbrM.png?raw=true)
  - PBR效果
- !(https://github.com/Kirkice/SRPTest/tree/main/SourceImages/PBRLit.png?raw=true)
+ ![Image 5](https://github.com/Kirkice/SRPTest/tree/main/SourceImages/PBRLit.png?raw=true)
 
 ---
 
@@ -60,9 +60,9 @@ KirkRendererPipeline 自定义渲染管线练习
 
 **截图**：
  - Global illumination OFF
- !(https://github.com/Kirkice/SRPTest/tree/main/SourceImages/GIOff.png?raw=true)
+ ![Image 6](https://github.com/Kirkice/SRPTest/tree/main/SourceImages/GIOff.png?raw=true)
  - Global illumination ON！！
- !(https://github.com/Kirkice/SRPTest/tree/main/SourceImages/GIOn.png?raw=true)
+ ![Image 7](https://github.com/Kirkice/SRPTest/tree/main/SourceImages/GIOn.png?raw=true)
  
 ---
 
@@ -77,14 +77,14 @@ KirkRendererPipeline 自定义渲染管线练习
 **截图**：
 
  - Volume Light
- !(https://github.com/Kirkice/SRPTest/tree/main/SourceImages/Point.png?raw=true)
- !(https://github.com/Kirkice/SRPTest/tree/main/SourceImages/Spot.png?raw=true)
+ ![Image 8](https://github.com/Kirkice/SRPTest/tree/main/SourceImages/Point.png?raw=true)
+ ![Image 9](https://github.com/Kirkice/SRPTest/tree/main/SourceImages/Spot.png?raw=true)
 
  - Volume Cloud / Voxel
    还在写。。。。
    
  - Volume Fog 
- !(https://github.com/Kirkice/SRPTest/tree/main/SourceImages/DirectionLight.png?raw=true)
+ ![Image 10](https://github.com/Kirkice/SRPTest/tree/main/SourceImages/DirectionLight.png?raw=true)
 
  ---
 
@@ -120,14 +120,14 @@ KirkRendererPipeline 自定义渲染管线练习
   - 27.ToneMapping (色调映射)  
 
 **截图**：
-  !(https://github.com/Kirkice/SRPTest/tree/main/SourceImages/1.png?raw=true)
+  ![Image 11](https://github.com/Kirkice/SRPTest/tree/main/SourceImages/1.png?raw=true)
 
-  !(https://github.com/Kirkice/SRPTest/tree/main/SourceImages/2.png?raw=true)
+  ![Image 12](https://github.com/Kirkice/SRPTest/tree/main/SourceImages/2.png?raw=true)
 
-  !(https://github.com/Kirkice/SRPTest/tree/main/SourceImages/3.png?raw=true)
+  ![Image 13](https://github.com/Kirkice/SRPTest/tree/main/SourceImages/3.png?raw=true)
 
-  !(https://github.com/Kirkice/SRPTest/tree/main/SourceImages/4.png?raw=true)
+  ![Image 14](https://github.com/Kirkice/SRPTest/tree/main/SourceImages/4.png?raw=true)
 
-  !(https://github.com/Kirkice/SRPTest/tree/main/SourceImages/5.png?raw=true)
+  ![Image 15](https://github.com/Kirkice/SRPTest/tree/main/SourceImages/5.png?raw=true)
 
-  !(https://github.com/Kirkice/SRPTest/tree/main/SourceImages/6.png?raw=true)
+  ![Image 16](https://github.com/Kirkice/SRPTest/tree/main/SourceImages/6.png?raw=true)
