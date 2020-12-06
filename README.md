@@ -15,9 +15,9 @@ KirkRendererPipeline 自定义渲染管线练习
 
  **截图**：
 
-<div align=left><img width="1280" height="720" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/7.png"/></div>
+<div align=left><img width="700" height="390" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/7.png"/></div>
 
-<div align=left><img width="1280" height="720" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/8.png"/></div>
+<div align=left><img width="700" height="390" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/8.png"/></div>
 
 ## 第一部分 基础光照模型
 
@@ -33,7 +33,7 @@ KirkRendererPipeline 自定义渲染管线练习
   
  **截图**：
 
- <div align=left><img width="1280" height="720" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/lightModel.png"/></div>
+ <div align=left><img width="700" height="390" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/lightModel.png"/></div>
 
 ---
 
@@ -48,11 +48,11 @@ KirkRendererPipeline 自定义渲染管线练习
  **截图**：
  - 着色器参数
 
-  <div align=left><img width="1280" height="720" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/pbrM.png"/></div>
+  <div align=left><img width="700" height="390" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/pbrM.png"/></div>
 
  - PBR效果
 
-  <div align=left><img width="1280" height="720" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/PBRLit.png"/></div>
+  <div align=left><img width="700" height="390" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/PBRLit.png"/></div>
 
 
 ---
@@ -67,11 +67,11 @@ KirkRendererPipeline 自定义渲染管线练习
 **截图**：
  - Global illumination OFF
 
-   <div align=left><img width="1280" height="720" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/GIOff.png"/></div>
+   <div align=left><img width="700" height="390" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/GIOff.png"/></div>
 
  - Global illumination ON！！
 
-   <div align=left><img width="1280" height="720" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/GIOn.png"/></div>
+   <div align=left><img width="700" height="390" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/GIOn.png"/></div>
 
 ---
 
@@ -87,9 +87,9 @@ KirkRendererPipeline 自定义渲染管线练习
 
  - Volume Light
 
-    <div align=left><img width="1280" height="720" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/Point.png"/></div>
+    <div align=left><img width="700" height="390" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/Point.png"/></div>
 
-    <div align=left><img width="1280" height="720" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/Spot.png"/></div>
+    <div align=left><img width="700" height="390" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/Spot.png"/></div>
 
 
  - Volume Cloud / Voxel
@@ -97,7 +97,7 @@ KirkRendererPipeline 自定义渲染管线练习
    
  - Volume Fog 
 
-    <div align=left><img width="1280" height="720" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/DirectionLight.png"/></div>
+    <div align=left><img width="700" height="390" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/DirectionLight.png"/></div>
 
  ---
 
@@ -133,16 +133,15 @@ KirkRendererPipeline 自定义渲染管线练习
   - 27.ToneMapping (色调映射)  
 
 **截图**：
+  <div align=left><img width="700" height="390" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/1.png"/></div>
 
-  <div align=left><img width="1280" height="720" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/1.png"/></div>
+  <div align=left><img width="700" height="390" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/2.png"/></div>
 
-  <div align=left><img width="1280" height="720" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/2.png"/></div>
+  <div align=left><img width="700" height="390" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/3.png"/></div>
 
-  <div align=left><img width="1280" height="720" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/3.png"/></div>
+  <div align=left><img width="700" height="390" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/4.png"/></div>
 
-  <div align=left><img width="1280" height="720" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/4.png"/></div>
+  <div align=left><img width="700" height="390" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/5.png"/></div>
 
-  <div align=left><img width="1280" height="720" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/5.png"/></div>
-
-  <div align=left><img width="1280" height="720" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/6.png"/></div>
+  <div align=left><img width="700" height="390" src="https://github.com/Kirkice/SRPTest/blob/main/SourceImages/6.png"/></div>
 
